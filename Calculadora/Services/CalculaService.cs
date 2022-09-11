@@ -23,7 +23,8 @@ namespace Calculadora.Services
                     break;
                 case 4: Resultado = Dividir(valor1, valor2);
                     break;
-                default: return Resultado;
+                default: System.Environment.Exit(0);
+                    break;
             }
 
             return Resultado;

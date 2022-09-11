@@ -1,2 +1,2 @@
 # ProjetoConsoleCalculadora
-Projeto no intuito de exercitar conhecimentos da linguagem
+Projeto no intuito de exercitar conhecimentos da linguagem c#
